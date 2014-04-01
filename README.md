@@ -1,4 +1,3 @@
-
 Windows GnuPlot Stub
 ====================
 
@@ -29,7 +28,7 @@ installation guidelines below.
 How to install:
 ---------------
 
-0) Go to %appdata% and backup whatever gnuplot.ini file you may have.
+0) Go to %APPDATA% directory and backup whatever gnuplot.ini file you have.
 
 1) Find your gnuplot.exe in it's <installation path>
    (usually this is C:\Program Files (x86)\gnuplot)
